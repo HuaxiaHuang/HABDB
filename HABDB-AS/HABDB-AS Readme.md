@@ -83,4 +83,4 @@ kraken2-inspect --db /your_path/HABs_Final_Kraken2_db
 
 ##### DOWNSTREAM ANALYSIS
 
-After performing species annotation using the custom HAB-Kraken2 database, you can utilize the HAB_Gettax.pl script to summarize and compile the taxonomy results.
+After performing species annotation using the custom HAB-Kraken2 database, you can utilize the `HAB_Gettax.pl` script to summarize and compile the taxonomy results.
